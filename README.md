@@ -3,17 +3,30 @@ Interesting content without you having to Bing search for it. (Yes, people use B
 
 Content Glossary
 
-- [November 2021](#November-2021)
+- [November 2020](#November-2020)
   - [Advanced Power BI Training](#Advanced-Power-BI-Training)
   - [Power BI Women](#Power-BI-Women)
   - [Power BI Field Finder](#Power-BI-Field-Finder)
   - [Create an interactive legend in your Power BI Map](#Create-an-interactive-legend-in-your-Power-BI-Map)
-- [October 2021](#October-2021)
+- [October 2020](#October-2020)
   - [Curbal show last label only on a line chart in Power BI](#Curbal-show-last-label-only-on-a-line-chart-in-Power-BI)
-- [September 2021](#September-2021)
+- [August 2021](#August-2020)
+  - [PowerBI.tips Business Ops](#PowerBI.tips-Business-Ops)
+- [July 2020](#July-2020)
+  - [Power Query / M Language - Visual Studio Code extension](#Power-Query-/-M-Language---Visual-Studio-Code-extension)
+  - [DA-100 Exam (General Availability)](#DA-100-Exam-(General-Availability))
+  - [Rendering 1.2 Million points in Power BI](#Rendering-1.2-Million-points-in-Power-BI)
+- [June 2020]
+  - [DAX Studio Query Builder](#DAX-Studio-Query-Builder)
+- [April 2020]
+  - [Microsoft Editor Spelling & Grammar Checker Extension](#Microsoft-Editor-Spelling-&-Grammar-Checker-Extension)
+  - [Paginated Reports in a Day](#Paginated-Reports-in-a-Day)
+  - [Tabular Edtior Playlist](#Tabular-Editor-Playlist)
+  - [Power Query Data Mashup cmdlets](#Power-Query-Data-Mashup-cmdlets)
+  
 </br>
 
-# November 2021
+# November 2020
 
 ## Advanced Power BI Training
 **Description:** The Advanced Power BI Training can be re-watched on demand. This was a 1-day instructor led training to walk users through Power BI capabilities to enhance data models for your business users.
@@ -51,7 +64,7 @@ Content Glossary
 
 </br>
 
-# October 2021
+# October 2020
 
 ## Curbal show last label only on a line chart in Power BI
 
@@ -65,7 +78,7 @@ Content Glossary
 
 </br>
 
-# August 2021
+# August 2020
 
 ## PowerBI.tips Business Ops
 **Description:** The Business Ops tool is designed to simplify your Development Experience with Power BI Desktop. There are a lot of challenges remembering where all the best power bi external tools are stored.  Many MVPs contribute amazing projects to make your development experience better.  The Business Ops installer is intended to streamline and increase your efficiency when working in Power BI.
@@ -74,7 +87,7 @@ Content Glossary
 
 </br>
 
-# July 2021
+# July 2020
 
 ## Power Query / M Language - Visual Studio Code extension
 **Description:** Provides a language service for the Power Query / M formula language with the following capabilities:
@@ -96,11 +109,56 @@ Content Glossary
 
 </br>
 
-## Rendering 1.2 Million points in Powre BI
+## Rendering 1.2 Million points in Power BI
 **Description:** 
 
 Learn more about the [Icon Map](http://icon-map.com).
 
 **[Link](https://datamonkeysite.com/2020/07/06/rendering-1-2-million-points-in-powerbi-using-icon-map/)**
+
+</br>
+
+# June 2020
+
+## DAX Studio Query Builder
+**Description:** The query builder provides a drag and drop interface for building queries against your data model.
+
+![DAX Studio Query Builder](https://daxstudio.org/documentation/features/query-builder/dragging-metadata.png)
+
+**[Link](https://daxstudio.org/documentation/features/query-builder/)**
+
+</br>
+
+# April 2020
+
+## Microsoft Editor Spelling & Grammar Checker Extension
+**Description:** Editor provides grammar, spelling, and style suggestions across multiple sites (1), so you can confidently write clear, concise posts and emails. 
+
+![Microsoft Editor](https://store-images.s-microsoft.com/image/apps.17204.d5843a61-6690-459f-ae52-ae77f312646b.f8b7b289-3ff3-40f2-8066-7919fc3c8a99.7d0bc10c-c368-483a-8be4-8f5cf8a74c3e)
+
+**[Link](https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh)**
+
+</br>
+
+## Paginated Reports in a Day
+**Description:** The Power BI Paginated Reports in a Day video-based course empowers you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports.
+
+![Paginated Reports](https://docs.microsoft.com/en-us/power-bi/paginated-reports/media/paginated-reports-report-builder-power-bi/power-bi-paginated-wwi-report-page.png)
+
+**[Link](https://aka.ms/priad-online-course)**
+
+</br>
+
+## Tabular Editor Playlist
+**Description:** Tabular Editor is an incredible Tool that enables users to manipulate a Tabular model at lighting speeds. Daniel Otykier is the creator of the Tabular Editor program. [PowerBI.tips](https://powerbi.tips) produced a video series to enable users of Power BI and data modelers for Analysis Services to learn more about this program.
+
+**[Link](https://www.youtube.com/playlist?list=PLn1m_aBmgsbGvz4SsmO_fkeThjDUSWFkf)**
+
+</br>
+
+## Power Query Data Mashup cmdlets
+**Description:** Import and export Power Query from Microsoft Excel (xlsx, xlsm, xlsb) and Microsoft Power BI (pbix, pbit) files using PowerShell Core!
+
+**[Link](https://bengribaudo.com/tools/datamashupcmdlets)**
 
 </br>
