@@ -138,7 +138,7 @@ Learn more about the [Icon Map](http://icon-map.com).
 # April 2020
 
 ## Microsoft Editor Spelling & Grammar Checker Extension
-**Description:** Editor provides grammar, spelling, and style suggestions across multiple sites (1), so you can confidently write clear, concise posts and emails. 
+**Description:** Editor provides grammar, spelling, and style suggestions across multiple sites (1), so you can confidently write clear, concise posts and emails. This is a free browser extension and additional features can be unlocked when signing in with your O365 credentials.
 
 **[Link](https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh)**
 
