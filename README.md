@@ -1,4 +1,4 @@
-# Around-The-Web
+# Around The Web
 Interesting content without you having to Bing search for it. (Yes, people use Bing!)
 
 Content Glossary
