@@ -56,8 +56,6 @@ Content Glossary
 </br>
 
 ## Create an interactive legend in your Power BI Map
-![Interactive Legend](https://stephtbruno.files.wordpress.com/2020/10/2020-10-24_20-42-58.gif)
-
 **Descripton:** In this post Shannon Lindsay will show you how she created an interactive legend in Power BI that can be used with any of the map visuals.
 
 **[Link](https://data-witches.com/2020/10/24/create-an-interactive-legend-in-your-power-bi-map/)**
@@ -103,9 +101,11 @@ Content Glossary
 </br>
 
 ## DA-100 Exam (General Availability)
-**Description:** 
+**Description:** Data Analysts enable businesses to maximize the value of their data assets by using Microsoft Power BI. As a subject matter expert, Data Analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations. Data Analysts also collaborate with key stakeholders across verticals to deliver relevant insights based on identified business requirements.
 
 **[Link](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100)**
+
+![Data Analyst Associate](https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg)
 
 </br>
 
