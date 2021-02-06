@@ -16,9 +16,9 @@ Content Glossary
   - [Power Query / M Language - Visual Studio Code extension](#Power-Query-/-M-Language---Visual-Studio-Code-extension)
   - [DA-100 Exam (General Availability)](#DA-100-Exam-(General-Availability))
   - [Rendering 1.2 Million points in Power BI](#Rendering-1.2-Million-points-in-Power-BI)
-- [June 2020]
+- [June 2020](#June-2020)
   - [DAX Studio Query Builder](#DAX-Studio-Query-Builder)
-- [April 2020]
+- [April 2020](#April-2020)
   - [Microsoft Editor Spelling & Grammar Checker Extension](#Microsoft-Editor-Spelling-&-Grammar-Checker-Extension)
   - [Paginated Reports in a Day](#Paginated-Reports-in-a-Day)
   - [Tabular Edtior Playlist](#Tabular-Editor-Playlist)
