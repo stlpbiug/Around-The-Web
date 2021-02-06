@@ -60,6 +60,8 @@ Content Glossary
 
 **[Link](https://data-witches.com/2020/10/24/create-an-interactive-legend-in-your-power-bi-map/)**
 
+![Interactive legend](https://stephtbruno.files.wordpress.com/2020/10/2020-10-24_20-42-58.gif)
+
 </br>
 
 # October 2020
@@ -73,6 +75,8 @@ Content Glossary
 **[Link](https://www.youtube.com/watch?v=tGL7C2gLOsE)**
 
 **[Barrett's Post](https://datastud.dev/posts/power-bi-line-start-end-labels)**
+
+![Start and End Labels](https://datastud.dev/media/power_bi_line_start_end_labels/final_chart.png)
 
 </br>
 
@@ -96,7 +100,7 @@ Content Glossary
 - Code formatting
 - Syntax validation
 
-**Link:** [https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery)
+**[Link](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery)**
 
 </br>
 
@@ -110,11 +114,13 @@ Content Glossary
 </br>
 
 ## Rendering 1.2 Million points in Power BI
-**Description:** 
+**Description:** Just to be clear, this only proof of concept, rendering a big dataset will be slow and will eat all your memory, and you will probablyget errors in shared workspace, or if you are in a premium workspace, you will probably end up in trouble, but it is cool.
 
 Learn more about the [Icon Map](http://icon-map.com).
 
 **[Link](https://datamonkeysite.com/2020/07/06/rendering-1-2-million-points-in-powerbi-using-icon-map/)**
+
+![Million Map](https://datamonkeysite.files.wordpress.com/2020/07/image-3.png)
 
 </br>
 
