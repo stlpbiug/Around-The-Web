@@ -3,17 +3,17 @@ Interesting content without you having to Bing search for it. (Yes, people use B
 
 Content Glossary
 
-- [November 2020](#November-2020)
-  - [Advanced Power BI Training](#Advanced-Power-BI-Training)
-  - [Power BI Women](#Power-BI-Women)
-  - [Power BI Field Finder](#Power-BI-Field-Finder)
-  - [Create an interactive legend in your Power BI Map](#Create-an-interactive-legend-in-your-Power-BI-Map)
-- [October 2020](#October-2020)
-  - [Curbal show last label only on a line chart in Power BI](#Curbal-show-last-label-only-on-a-line-chart-in-Power-BI)
-- [August 2021](#August-2020)
-  - [PowerBI.tips Business Ops](#PowerBI.tips-Business-Ops)
-- [July 2020](#July-2020)
-  - [Power Query / M Language - Visual Studio Code extension](#Power-Query-/-M-Language---Visual-Studio-Code-extension)
+- [November 2020](#november-2020)
+  - [Advanced Power BI Training](#advanced-power-bi-training)
+  - [Power BI Women](#power-bi-women)
+  - [Power BI Field Finder](#power-bi-field-finder)
+  - [Create an interactive legend in your Power BI Map](#create-an-interactive-legend-in-your-power-bi-map)
+- [October 2020](#october-2020)
+  - [Curbal show last label only on a line chart in Power BI](#curbal-show-last-label-only-on-a-line-chart-in-power-bi)
+- [August 2021](#august-2020)
+  - [PowerBI.tips Business Ops](#powerbi-tips-business-ops)
+- [July 2020](#july-2020)
+  - [Power Query / M Language - Visual Studio Code extension](#power-query-/-m-language---Visual-Studio-Code-extension)
   - [DA-100 Exam (General Availability)](#DA-100-Exam-(General-Availability))
   - [Rendering 1.2 Million points in Power BI](#Rendering-1.2-Million-points-in-Power-BI)
 - [June 2020](#June-2020)
@@ -37,21 +37,21 @@ Content Glossary
 
 
 ## Power BI Women
+**Description:** A community to help create equal opportunities for women in Power BI.
+
+**[Link](https://meetup.com/power-bi-women)**
+
 ![Power BI Women](https://secure.meetupstatic.com/photos/event/7/f/6/4/600_494252612.jpeg)
-
-**Description:** Help create equal opportunities for women.
-
-**[Link](https://meetup.com/power-bi-women](https://meetup.com/power-bi-women)**
 
 </br>
 
 
 ## Power BI Field Finder
-![Field Finder](https://stephtbruno.files.wordpress.com/2020/11/image-5.png)
-
 **Description:** There's no easy way of finding out where columns and measures are used in the visuals of reports, problem solved with the Field Finder :)
 
 **[Link](https://data-witches.com/2020/11/17/power-bi-field-finder/)**
+
+![Field Finder](https://stephtbruno.files.wordpress.com/2020/11/image-5.png)
 
 </br>
 
@@ -123,9 +123,9 @@ Learn more about the [Icon Map](http://icon-map.com).
 ## DAX Studio Query Builder
 **Description:** The query builder provides a drag and drop interface for building queries against your data model.
 
-![DAX Studio Query Builder](https://daxstudio.org/documentation/features/query-builder/dragging-metadata.png)
-
 **[Link](https://daxstudio.org/documentation/features/query-builder/)**
+
+![DAX Studio Query Builder](https://daxstudio.org/documentation/features/query-builder/dragging-metadata.png)
 
 </br>
 
@@ -134,18 +134,18 @@ Learn more about the [Icon Map](http://icon-map.com).
 ## Microsoft Editor Spelling & Grammar Checker Extension
 **Description:** Editor provides grammar, spelling, and style suggestions across multiple sites (1), so you can confidently write clear, concise posts and emails. 
 
-![Microsoft Editor](https://store-images.s-microsoft.com/image/apps.17204.d5843a61-6690-459f-ae52-ae77f312646b.f8b7b289-3ff3-40f2-8066-7919fc3c8a99.7d0bc10c-c368-483a-8be4-8f5cf8a74c3e)
-
 **[Link](https://microsoftedge.microsoft.com/addons/detail/microsoft-editor-spellin/hokifickgkhplphjiodbggjmoafhignh)**
+
+![Microsoft Editor](https://store-images.s-microsoft.com/image/apps.17204.d5843a61-6690-459f-ae52-ae77f312646b.f8b7b289-3ff3-40f2-8066-7919fc3c8a99.7d0bc10c-c368-483a-8be4-8f5cf8a74c3e)
 
 </br>
 
 ## Paginated Reports in a Day
 **Description:** The Power BI Paginated Reports in a Day video-based course empowers you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports.
 
-![Paginated Reports](https://docs.microsoft.com/en-us/power-bi/paginated-reports/media/paginated-reports-report-builder-power-bi/power-bi-paginated-wwi-report-page.png)
-
 **[Link](https://aka.ms/priad-online-course)**
+
+![Paginated Reports](https://docs.microsoft.com/en-us/power-bi/paginated-reports/media/paginated-reports-report-builder-power-bi/power-bi-paginated-wwi-report-page.png)
 
 </br>
 
