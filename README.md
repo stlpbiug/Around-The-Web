@@ -15,7 +15,7 @@ Content Glossary
   - [Workout Wednesday](#workout-wednesday)
   - [DAX.do](#daxdo)
   - [DAX Tools](#dax-tools)
-  - [Composite Models)(#composite-models)
+  - [Composite Models](#composite-models)
 - [November 2020](#november-2020)
   - [Advanced Power BI Training](#advanced-power-bi-training)
   - [Power BI Women](#power-bi-women)
