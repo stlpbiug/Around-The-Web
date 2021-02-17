@@ -12,8 +12,10 @@ Content Glossary
 - [February 2021](#february-2021)
   - [Ignite 2021](#microsoft-ignite-2021)
   - [Admin in a Day](#admin-in-a-day)
+  - [Workout Wednesday](#workout-wednesday)
   - [DAX.do](#daxdo)
   - [DAX Tools](#dax-tools)
+  - [Composite Models)(#composite-models)
 - [November 2020](#november-2020)
   - [Advanced Power BI Training](#advanced-power-bi-training)
   - [Power BI Women](#power-bi-women)
@@ -59,6 +61,14 @@ Content Glossary
 [Click here! to join day 2](https://aka.ms/AdmPBI2)
 
 
+## Workout Wednesday
+**Description:** A staple within the data visualization community for years, the Power BI edition of #WorkoutWednesday will welcome new users to the community with a new challenge released every week.
+
+**[Link](http://www.workout-wednesday.com/category/powerbi/)**
+
+![WOW](http://www.workout-wednesday.com/wp-content/uploads/2021/02/PBIWoW2021week7-1536x855.png)
+
+
 ## DAX.do
 **Description:** A new website by SQLBI where you can write and run DAX queries over a sample Contoso database. The goal of DAX.do is purely educational: if you are learning DAX or are merely curious to test a new DAX syntax, you now have a readily-available playground to do that. It does not require you to install any software. It does not even require a computer. If you suddenly feel the urge to test a new DAX idea, DAX.do also works on your mobile phone!
 
@@ -71,6 +81,13 @@ Content Glossary
 
 **[Link](https://www.sqlbi.com/p/dax-tools-video-course/)**
 
+![Marco Training](https://cdn.sqlbi.com/wp-content/themes/sqlbi/images/lms/sample.jpg)
+
+
+## Composite Models
+**Description:** "This is how evolution works… and technological evolution is no exception. But failures caused by the misuse of a technology do not constitute proof of its irrelevance. It is the adoption of this technology throughout the **next decade** that will write the story." - SQLBI
+
+**[Link](https://www.sqlbi.com/articles/new-composite-models-in-power-bi-a-milestone-in-business-intelligence/)**
 
 # November 2020
 
