@@ -15,7 +15,7 @@ Content Glossary
 - [October 2020](#october-2020)
   - [Curbal show last label only on a line chart in Power BI](#curbal-show-last-label-only-on-a-line-chart-in-power-bi)
 - [August 2021](#august-2020)
-  - [PowerBI.tips Business Ops](#powerbi-tips-business-ops)
+  - [PowerBI.tips Business Ops](#powerbitips-business-ops)
 - [July 2020](#july-2020)
   - [Power Query / M Language - Visual Studio Code extension](#power-query--m-language---visual-studio-code-extension)
   - [DA-100 Exam (General Availability)](#da-100-exam-general-availability)
