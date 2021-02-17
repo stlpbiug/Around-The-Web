@@ -51,8 +51,6 @@ Content Glossary
 
 [Click here! to join day 2](https://aka.ms/AdmPBI2)
 
-**[Link](https://myignite.microsoft.com/home)**
-
 
 ## DAX.do
 **Description:** A new website by SQLBI where you can write and run DAX queries over a sample Contoso database. The goal of DAX.do is purely educational: if you are learning DAX or are merely curious to test a new DAX syntax, you now have a readily-available playground to do that. It does not require you to install any software. It does not even require a computer. If you suddenly feel the urge to test a new DAX idea, DAX.do also works on your mobile phone!
