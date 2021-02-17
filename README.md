@@ -13,6 +13,7 @@ Content Glossary
   - [Ignite 2021](#microsoft-ignite-2021)
   - [Admin in a Day](#admin-in-a-day)
   - [Workout Wednesday](#workout-wednesday)
+  - [Power BI Dev Camp](#power-bi-dev-camp)
   - [DAX.do](#daxdo)
   - [DAX Tools](#dax-tools)
   - [Composite Models](#composite-models)
@@ -67,6 +68,13 @@ Content Glossary
 **[Link](http://www.workout-wednesday.com/category/powerbi/)**
 
 ![WOW](http://www.workout-wednesday.com/wp-content/uploads/2021/02/PBIWoW2021week7-1536x855.png)
+
+## Power BI Dev Camp
+**Description:** Various pro-level topics ranging from embedding in custom applications, PowerShell cmdlets, developing custom visuals, M deep dives 😻 - free to attend and recordings available for playback.
+
+**[Link](https://www.powerbidevcamp.net/)**
+
+![Dev Camp](https://www.powerbidevcamp.net/sessions/session02/DevCamp1.png)
 
 
 ## DAX.do
