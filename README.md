@@ -3,6 +3,10 @@ Interesting content without you having to Bing search for it. (Yes, people use B
 
 Content Glossary
 
+- [February 2021](#february-2021)
+  - [Ignite 2021](#microsoft-ignite-2021)
+  - [Admin in a Day](#admin-in-a-day)
+  - [DAX.do](#dax.do)
 - [November 2020](#november-2020)
   - [Advanced Power BI Training](#advanced-power-bi-training)
   - [Power BI Women](#power-bi-women)
@@ -25,6 +29,33 @@ Content Glossary
   - [Power Query Data Mashup cmdlets](#power-query-data-mashup-cmdlets)
   
 </br>
+
+# February 2021
+
+## Microsoft Ignite 2021
+**Description:** Microsoft’s annual gathering of technology leaders and practitioners delivered as a digital event experience. Numerous Power BI announcements including Premium Per User pricing.
+**When:** March 2–4, 2021 
+**[Link](https://myignite.microsoft.com/home)**
+
+## Admin in a Day
+**Description:** This course covers key aspects of a successful Power BI administration, creating a Power BI tenant, managing access and permissions, managing resources and capacity, Premium capacity administration, broadening the reach – embedded, working with the Data Gateway and best practices for successful Power BI administration. Each of the 10 modules will be delivered and monitored for questions by an MVP.
+
+**When:** February 24th and 25th, 2021 (2 half sessions) - starting at 7:00 AM to 11:00 AM CST
+
+**[Official link](https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-instructor-led-training-24th-25th-of-february-2021-from-500-am-900-am-pst/)**
+
+[Click here! to join day 1](https://aka.ms/AdmPBI1)
+
+[Click here! to join day 2](https://aka.ms/AdmPBI2)
+
+**[Link](https://myignite.microsoft.com/home)**
+
+## DAX.do
+**Description:** A new website by SQLBI where you can write and run DAX queries over a sample Contoso database. The goal of DAX.do is purely educational: if you are learning DAX or are merely curious to test a new DAX syntax, you now have a readily-available playground to do that. It does not require you to install any software. It does not even require a computer. If you suddenly feel the urge to test a new DAX idea, DAX.do also works on your mobile phone!
+
+**[Link](https://dax.do)**
+
+![DAX.do](https://www.sqlbi.com/wp-content/uploads/daxdo-01.png)
 
 # November 2020
 
