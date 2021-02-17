@@ -1,3 +1,9 @@
+# Power BI Releases
+
+Looking for an easy way to stay up to date with official Microsoft feature release dates? Use the [Power BI Release Plan Report](https://aka.ms/pbireleaseplan). 
+
+Built for the **#STLPBIUG**, used globally 💛
+
 # Around The Web
 Interesting content without you having to Bing search for it. (Yes, people use Bing!)
 
@@ -7,6 +13,7 @@ Content Glossary
   - [Ignite 2021](#microsoft-ignite-2021)
   - [Admin in a Day](#admin-in-a-day)
   - [DAX.do](#daxdo)
+  - [DAX Tools](#dax-tools)
 - [November 2020](#november-2020)
   - [Advanced Power BI Training](#advanced-power-bi-training)
   - [Power BI Women](#power-bi-women)
@@ -58,6 +65,11 @@ Content Glossary
 **[Link](https://dax.do)**
 
 ![DAX.do](https://www.sqlbi.com/wp-content/uploads/daxdo-01.png)
+
+## DAX Tools
+**Description:** A new **FREE** course by SQLBI, the DAX Tools video course teaches how to use three popular tools to write and optimize DAX: DAX Studio, VertiPaq Analyzer, and Analyze in Excel for Power BI Desktop. All these tools are free and open-source.
+
+**[Link](https://www.sqlbi.com/p/dax-tools-video-course/)**
 
 
 # November 2020
