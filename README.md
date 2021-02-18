@@ -13,6 +13,7 @@ Content Glossary
   - [Ignite 2021](#microsoft-ignite-2021)
   - [Admin in a Day](#admin-in-a-day)
   - [Workout Wednesday](#workout-wednesday)
+  - [Customer Story Nestle](#customer-story-nestle)
   - [Power BI Dev Camp](#power-bi-dev-camp)
   - [DAX.do](#daxdo)
   - [DAX Tools](#dax-tools)
@@ -68,6 +69,13 @@ Content Glossary
 **[Link](http://www.workout-wednesday.com/category/powerbi/)**
 
 ![WOW](http://www.workout-wednesday.com/wp-content/uploads/2021/02/PBIWoW2021week7-1536x855.png)
+
+## Customer Story Nestle
+**Description:** In early 2018, Nestlé released Power BI to all its users globally. Since becoming generally available, the company’s user base has grown to over 45,000 monthly active users. As Nestlé has developed its strategy around self-service BI, it has taken action in phases. By incrementally implementing Power BI, it continues to create a strong and lasting solution.
+
+**[Link](https://customers.microsoft.com/en-us/story/857107-nestle-consumer-goods-azure-power-bi)**
+
+![Nestle Logo](https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/857107-nestle-consumer-goods-azure-power-bi/resources/b5314926-f7d8-4cdd-85d3-fde6c7ee78de/1315241776826893827_1315241776826893827)
 
 ## Power BI Dev Camp
 **Description:** Various pro-level topics ranging from embedding in custom applications, PowerShell cmdlets, developing custom visuals, M deep dives 😻 - free to attend and recordings available for playback.
