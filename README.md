@@ -8,7 +8,12 @@ Built for the **#STLPBIUG**, used globally 💛
 Interesting content without you having to Bing search for it. (Yes, people use Bing!)
 
 Content Glossary
-
+- [March 2021](#march-2021)
+  -  [Premium Per User Pricing Announcement](#premium-per-user-pricing-announcement)
+  -  [Power BI Embedded Playground](#power-bi-embedded-playground)
+  -  [Data Modeling and Shaping](#data-modeling-and-shaping)
+  -  [12 Days of Paginated Reports](#12-days-of-paginated-reports)
+  -  [PowerPivotPro Paginated Reports Series](#powerpivotpro-paginated-reports-series)
 - [February 2021](#february-2021)
   - [Ignite 2021](#microsoft-ignite-2021)
   - [Admin in a Day](#admin-in-a-day)
@@ -40,6 +45,57 @@ Content Glossary
   - [Power Query Data Mashup cmdlets](#power-query-data-mashup-cmdlets)
   
 </br>
+
+# March 2021
+
+## Premium Per User Pricing Announcement
+**Description:** https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-premium-per-user-general-availability-and-autoscale-preview-for-gen2/
+
+**Price:** $20 USD as a standalone / $10 as an add-on to existing Pro/E5 licensed users
+
+**Availability:** April 2nd, 2021
+
+**[Link](https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-premium-per-user-general-availability-and-autoscale-preview-for-gen2/)**
+
+## Power BI Embedded Playground
+**Description:** Updated Embedded Playground experience, including drag and drop code building.
+
+**[Official Announcement](https://powerbi.microsoft.com/en-us/blog/announcing-the-new-power-bi-embedded-analytics-playground-preview/)**
+
+**[Link](https://playground.powerbi.com/)**
+
+![Embedded Playground](https://powerbiblogscdn.azureedge.net/wp-content/uploads/2021/02/1.png)
+
+## Data Modeling and Shaping
+
+**Description:** This fantastic team will walk us through Power BI capabilities to enhance the data model and help shape your data for business users.
+
+**[Official Announcement](https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-instructor-led-training-data-modeling-shaping-on-24-25-march-100-pm-500pm-pdt/)**
+
+[Click here!](https://aka.ms/PBITraining03242021) to join Power BI instructor led training part 1.  Wednesday 24 March,  2021 from 3:00 PM – 7:00 PM CST.
+
+[Click here!](https://aka.ms/PBITraining03252021) to join Power BI instructor led training part 2.  Thursday 25 March, 2020, from 3:00 PM – 7:00 PM CST.
+
+![Fantastic Team](https://powerbiblogscdn.azureedge.net/wp-content/uploads/2021/03/yana_1.png)
+
+## 12 Days of Paginated Reports
+**Description:** [Laura Graham Brown](https://twitter.com/Laura_GB) introduces Paginated Reports to new users over the course of twelve short YouTube videos.
+
+**[Link](https://www.youtube.com/watch?v=G9UNql1bTlk&list=PLclDw3xU_tI5bypr74FnLuLGTyuTfKpV1)**
+
+## PowerPivotPro Paginated Reports Series
+
+**Description:** A multipart series that includes excellent commentary around how Power BI Reports and Paginated Reports can be #BetterTogether when used in tandem.
+
+[Power BI and Paginated Reports: Have We Come Full Circle?](https://powerpivotpro.com/2020/06/power-bi-and-paginated-reports-have-we-come-full-circle/)
+
+[Paginated Reporting and Power BI: Why You Probably Need Both](https://powerpivotpro.com/2020/06/paginated-reporting-and-power-bi-why-you-probably-need-both/)
+
+[Power BI and Paginated Reports: Better Together](https://powerpivotpro.com/2020/06/power-bi-and-paginated-reports-better-together/)
+
+[Contact PowerPivotPro](https://powerpivotpro.com/)
+
+![Paginated Image](https://powerpivotpro.com/wp-content/uploads/2020/06/image_thumb-27.png)
 
 # February 2021
 
