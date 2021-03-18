@@ -9,6 +9,7 @@ Interesting content without you having to Bing search for it. (Yes, people use B
 
 Content Glossary
 - [March 2021](#march-2021)
+  -  [Drive a data culture with Power BI](#drive-a-data-culture-with-power-bi)
   -  [Premium Per User Pricing Announcement](#premium-per-user-pricing-announcement)
   -  [Power BI Embedded Playground](#power-bi-embedded-playground)
   -  [Data Modeling and Shaping](#data-modeling-and-shaping)
@@ -47,6 +48,11 @@ Content Glossary
 </br>
 
 # March 2021
+
+## Drive a data culture with Power BI
+**Description:** Power BI can help you drive a data culture. Learn why 97% of the Fortune 500 use Power BI today and customers large and small are standardizing on Power BI. We will cover our vision and roadmap. You will see how AI automatically find patterns in your data, you will learn about how Power BI is built into Teams and Excel to enable incredible collaboration experiences, and how Power BI with Synapse meets your most demanding needs. We also have a few exciting new announcements to share! 
+
+**[Link](https://myignite.microsoft.com/sessions/9be45bcc-ad17-4f3c-a563-29994e21e38e?source=schedule)**
 
 ## Premium Per User Pricing Announcement
 **Description:** https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-premium-per-user-general-availability-and-autoscale-preview-for-gen2/
@@ -93,7 +99,7 @@ Content Glossary
 
 [Power BI and Paginated Reports: Better Together](https://powerpivotpro.com/2020/06/power-bi-and-paginated-reports-better-together/)
 
-[Contact PowerPivotPro](https://powerpivotpro.com/)
+[Contact PowerPivotPro](mailto:kdyess@powerpivotpro.com)
 
 ![Paginated Image](https://powerpivotpro.com/wp-content/uploads/2020/06/image_thumb-27.png)
 
@@ -131,7 +137,7 @@ Content Glossary
 
 **[Link](https://customers.microsoft.com/en-us/story/857107-nestle-consumer-goods-azure-power-bi)**
 
-![Nestle Logo](https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/857107-nestle-consumer-goods-azure-power-bi/resources/b5314926-f7d8-4cdd-85d3-fde6c7ee78de/1315241776826893827_1315241776826893827)
+![Nestle Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Old_Nestl%C3%A9_logo.svg/1200px-Old_Nestl%C3%A9_logo.svg.png)
 
 ## Power BI Dev Camp
 **Description:** Various pro-level topics ranging from embedding in custom applications, PowerShell cmdlets, developing custom visuals, M deep dives 😻 - free to attend and recordings available for playback.
