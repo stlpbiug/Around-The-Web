@@ -8,6 +8,11 @@ Built for the **#STLPBIUG**, used globally 💛
 Interesting content without you having to Bing search for it. (Yes, people use Bing!)
 
 Content Glossary
+- [May 2021](#may-2021)
+  - [STLPBIUG](#stlpbiug)
+  - [Organizational Reporting](#organizational-reporting)
+  - [Enable QUERY FOLDING for native queries](#enable-query-folding-for-native-queries)
+  - [PowPoCo](#powpoco)
 - [March 2021](#march-2021)
   -  [Drive a data culture with Power BI](#drive-a-data-culture-with-power-bi)
   -  [Premium Per User Pricing Announcement](#premium-per-user-pricing-announcement)
@@ -46,6 +51,34 @@ Content Glossary
   - [Power Query Data Mashup cmdlets](#power-query-data-mashup-cmdlets)
   
 </br>
+
+# May 2021
+
+# STLPBIUG
+**Description:** St Louis Power BI User Group is dedicated to Power BI power users, developers, or dabblers to share their enthusiasm and knowledge of Microsoft's Business Intelligence services. UGID:8341
+
+**[Link](https://community.powerbi.com/t5/St-Louis-Power-BI-User-Group/gh-p/pbi_StLouis_usergroup)
+
+# Organizational Reporting
+**Description:** Microsoft Learn Organizational Reporting is a service available to enterprise customers and educational organizations to view Microsoft Learn training progress and achievements of the individuals within their tenant using Azure Data Share. Azure Data Share enables organizations to securely share data with multiple customers and partners. In just a few clicks, you can provision a new data share account, add datasets, and invite your customers and partners to your data share. Data providers are always in control of the data that they have shared and Azure Data Share makes it simple to manage and monitor what data was shared, when, and by whom.
+
+**[Link](https://docs.microsoft.com/en-us/learn/support/org-reporting?WT.mc_id=techcom_learn-blog-wwl)**
+
+![Organizational reporting](https://docs.microsoft.com/en-us/learn/support/media/organization%20reporting%20power%20bi1.jpg)
+
+# Enable QUERY FOLDING for native queries
+**Description:** How to enable query folding when writing native queries. (Limited supported connectors)
+
+**[Guy in a Cube video](https://www.youtube.com/watch?v=8hjdOCni_ZY)**
+
+**[Chris Webb blog](https://blog.crossjoin.co.uk/2021/02/21/query-folding-on-sql-queries-in-power-query-using-value-nativequery-and-enablefoldingtrue/)**
+
+# PowPoCo
+**Description:** We are a bunch of Power Platform enthusiasts looking to share knowledge, find answers, and also some fun.
+
+**[Link](https://www.powp.co/)**
+
+![PowPoCo](https://pbs.twimg.com/media/Er7doJBXAAIvesZ?format=png&name=900x900)
 
 # March 2021
 
