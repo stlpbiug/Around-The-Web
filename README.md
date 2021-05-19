@@ -5,7 +5,7 @@ Looking for an easy way to stay up to date with official Microsoft feature relea
 Built for the **#STLPBIUG**, used globally 💛
 
 # Around The Web
-Interesting content without you having to Bing search for it. (Yes, people use Bing!)
+Interesting content without you having to [Bing](https://bing.com) search for it. (Yes, people use Bing!)
 
 Content Glossary
 - [May 2021](#may-2021)
@@ -13,6 +13,8 @@ Content Glossary
   - [Organizational Reporting](#organizational-reporting)
   - [Enable QUERY FOLDING for native queries](#enable-query-folding-for-native-queries)
   - [PowPoCo](#powpoco)
+  - [Analysis Services Tabular Protocol](#analysis-services-tabular-protocol)
+  - [Bing Wallpaper](#bing-wallpaper)
 - [March 2021](#march-2021)
   -  [Drive a data culture with Power BI](#drive-a-data-culture-with-power-bi)
   -  [Premium Per User Pricing Announcement](#premium-per-user-pricing-announcement)
@@ -55,9 +57,9 @@ Content Glossary
 # May 2021
 
 # STLPBIUG
-**Description:** St Louis Power BI User Group is dedicated to Power BI power users, developers, or dabblers to share their enthusiasm and knowledge of Microsoft's Business Intelligence services. UGID:8341
+**Description:** St Louis Power BI User Group is dedicated to Power BI power users, developers, or dabblers to share their enthusiasm and knowledge of Microsoft's Business Intelligence services. (Power BI Community Forum)
 
-**[Link](https://community.powerbi.com/t5/St-Louis-Power-BI-User-Group/gh-p/pbi_StLouis_usergroup)
+**[Link](https://community.powerbi.com/t5/St-Louis-Power-BI-User-Group/gh-p/pbi_StLouis_usergroup)**
 
 # Organizational Reporting
 **Description:** Microsoft Learn Organizational Reporting is a service available to enterprise customers and educational organizations to view Microsoft Learn training progress and achievements of the individuals within their tenant using Azure Data Share. Azure Data Share enables organizations to securely share data with multiple customers and partners. In just a few clicks, you can provision a new data share account, add datasets, and invite your customers and partners to your data share. Data providers are always in control of the data that they have shared and Azure Data Share makes it simple to manage and monitor what data was shared, when, and by whom.
@@ -79,6 +81,20 @@ Content Glossary
 **[Link](https://www.powp.co/)**
 
 ![PowPoCo](https://pbs.twimg.com/media/Er7doJBXAAIvesZ?format=png&name=900x900)
+
+# Analysis Services Tabular Protocol
+
+**Description:** Specifies an extension of the SQL Server Analysis Services protocol [MS-SSAS] by specifying the methods for a client to communicate with and perform operations on an analysis server that uses Tabular databases that are at compatibility level 1200 or higher.
+
+**[Link](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-ssas-t/f85cd3b9-690c-4bc7-a1f0-a854d7daecd8)**
+
+# Bing Wallpaper
+
+**Description:** Bing Wallpaper includes a collection of beautiful images from around the world that have been featured on the Bing homepage. Not only will you see a new image on your desktop each day, but you can also browse images and learn where they're from.
+
+**[Link](https://www.microsoft.com/en-us/bing/bing-wallpaper)**
+
+![Bing Wallpaper](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4rTbt?ver=9caa&q=90&m=6&h=450&w=800&b=%23FFFFFFFF&l=f&o=t&aim=true)
 
 # March 2021
 
