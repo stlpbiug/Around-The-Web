@@ -14,6 +14,7 @@ Content Glossary
   - [Enable QUERY FOLDING for native queries](#enable-query-folding-for-native-queries)
   - [PowPoCo](#powpoco)
   - [Analysis Services Tabular Protocol](#analysis-services-tabular-protocol)
+  - [Charticulator Visual Series](#charticulator-visual-series)
   - [Bing Wallpaper](#bing-wallpaper)
 - [March 2021](#march-2021)
   -  [Drive a data culture with Power BI](#drive-a-data-culture-with-power-bi)
@@ -87,6 +88,14 @@ Content Glossary
 **Description:** Specifies an extension of the SQL Server Analysis Services protocol [MS-SSAS] by specifying the methods for a client to communicate with and perform operations on an analysis server that uses Tabular databases that are at compatibility level 1200 or higher.
 
 **[Link](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-ssas-t/f85cd3b9-690c-4bc7-a1f0-a854d7daecd8)**
+
+# Charticulator Visual Series
+
+**Description:** Users can create a wide range of custom chart designs within PBI using the brand-new Microsoft Charticulator custom visual. [PowerBI.tips](https://powerbi.tips) has created a video series on YouTube to walk new users through the creation experience.
+
+[Link](https://www.youtube.com/watch?v=afGc6-wFyy0&list=PLn1m_aBmgsbH31NHXuT9ArgY5ZefuKESo)
+
+![Charticulator](https://powerbiblogscdn.azureedge.net/wp-content/uploads/2021/04/041321_2059_Charticulat8.png)
 
 # Bing Wallpaper
 
