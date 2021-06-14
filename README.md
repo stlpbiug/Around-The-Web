@@ -9,7 +9,7 @@ Interesting content without you having to [Bing](https://bing.com) search for it
 
 Content Glossary
 - [June 2021](#june-2021)
-  - [Introduction to Power BI L100)(#introduction-to-power-bi-l100)
+  - [Introduction to Power BI L100](#introduction-to-power-bi-l100)
   - [Power BI Skills Triangle](#power-bi-skills-triangle)
   - [Intro to AutoML in Power BI](#intro-to-automl-in-power-bi)
   - [Paginated Reports GOTCHAS](#paginated-reports-gotchas)
