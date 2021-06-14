@@ -61,7 +61,7 @@ Content Glossary
 
 # June 2021
 
-# Power BI Skills Triangle
+## Power BI Skills Triangle
 **Description:** Power BI is becoming this huge product, with so many different components, the possibilities are almost endless. From data modelling, to data visualisation, to data governance, to machine learning, to embedding... you name it! But one thing Mara Pereira noticed over the years is that, because Power BI grew so much, people started to "specialise" in one of 3 core areas: Data Modelling, Data Visualisation and Governance & Admin.
 
 Enter the Power BI Skills Triangle!
@@ -70,13 +70,13 @@ Enter the Power BI Skills Triangle!
 
 ![Skills Triangle](https://static.wixstatic.com/media/980ae7_4e40da3fa1944f8c8844980933f9f845~mv2.png)
 
-# Intro to AutoML in Power BI
+## Intro to AutoML in Power BI
 
 **Description:** In this session, Sandeep Pawar will take a technical deep dive into AutoML and not just build models but also look at how to evaluate, interpret and manage these models. If you are new to machine learning, he will cover the practical aspects of machine learning and best practices of deploying the models.
 
 **[Link](https://www.youtube.com/watch?v=_CaFacQiW_E)**
 
-# Paginated Reports GOTCHAS
+## Paginated Reports GOTCHAS
 
 **Description:** Greyskull Analytics (Johnny Winter) introduces a series exploring 'GOTCHAS' when using Power BI Paginated Reports.
 
@@ -86,39 +86,39 @@ Enter the Power BI Skills Triangle!
 
 # May 2021
 
-# STLPBIUG
+## STLPBIUG
 **Description:** St Louis Power BI User Group is dedicated to Power BI power users, developers, or dabblers to share their enthusiasm and knowledge of Microsoft's Business Intelligence services. (Power BI Community Forum)
 
 **[Link](https://community.powerbi.com/t5/St-Louis-Power-BI-User-Group/gh-p/pbi_StLouis_usergroup)**
 
-# Organizational Reporting
+## Organizational Reporting
 **Description:** Microsoft Learn Organizational Reporting is a service available to enterprise customers and educational organizations to view Microsoft Learn training progress and achievements of the individuals within their tenant using Azure Data Share. Azure Data Share enables organizations to securely share data with multiple customers and partners. In just a few clicks, you can provision a new data share account, add datasets, and invite your customers and partners to your data share. Data providers are always in control of the data that they have shared and Azure Data Share makes it simple to manage and monitor what data was shared, when, and by whom.
 
 **[Link](https://docs.microsoft.com/en-us/learn/support/org-reporting?WT.mc_id=techcom_learn-blog-wwl)**
 
 ![Organizational reporting](https://docs.microsoft.com/en-us/learn/support/media/organization%20reporting%20power%20bi1.jpg)
 
-# Enable QUERY FOLDING for native queries
+## Enable QUERY FOLDING for native queries
 **Description:** How to enable query folding when writing native queries. (Limited supported connectors)
 
 **[Guy in a Cube video](https://www.youtube.com/watch?v=8hjdOCni_ZY)**
 
 **[Chris Webb blog](https://blog.crossjoin.co.uk/2021/02/21/query-folding-on-sql-queries-in-power-query-using-value-nativequery-and-enablefoldingtrue/)**
 
-# PowPoCo
+## PowPoCo
 **Description:** We are a bunch of Power Platform enthusiasts looking to share knowledge, find answers, and also some fun.
 
 **[Link](https://www.powp.co/)**
 
 ![PowPoCo](https://pbs.twimg.com/media/Er7doJBXAAIvesZ?format=png&name=900x900)
 
-# Analysis Services Tabular Protocol
+## Analysis Services Tabular Protocol
 
 **Description:** Specifies an extension of the SQL Server Analysis Services protocol [MS-SSAS] by specifying the methods for a client to communicate with and perform operations on an analysis server that uses Tabular databases that are at compatibility level 1200 or higher.
 
 **[Link](https://docs.microsoft.com/en-us/openspecs/sql_server_protocols/ms-ssas-t/f85cd3b9-690c-4bc7-a1f0-a854d7daecd8)**
 
-# Charticulator Visual Series
+## Charticulator Visual Series
 
 **Description:** Users can create a wide range of custom chart designs within PBI using the brand-new Microsoft Charticulator custom visual. [PowerBI.tips](https://powerbi.tips) has created a video series on YouTube to walk new users through the creation experience.
 
@@ -126,7 +126,7 @@ Enter the Power BI Skills Triangle!
 
 ![Charticulator](https://powerbiblogscdn.azureedge.net/wp-content/uploads/2021/04/041321_2059_Charticulat8.png)
 
-# Bing Wallpaper
+## Bing Wallpaper
 
 **Description:** Bing Wallpaper includes a collection of beautiful images from around the world that have been featured on the Bing homepage. Not only will you see a new image on your desktop each day, but you can also browse images and learn where they're from.
 
