@@ -9,6 +9,7 @@ Interesting content without you having to [Bing](https://bing.com) search for it
 
 Content Glossary
 - [June 2021](#june-2021)
+  - [Introduction to Power BI L100)(#introduction-to-power-bi-l100)
   - [Power BI Skills Triangle](#power-bi-skills-triangle)
   - [Intro to AutoML in Power BI](#intro-to-automl-in-power-bi)
   - [Paginated Reports GOTCHAS](#paginated-reports-gotchas)
@@ -60,6 +61,11 @@ Content Glossary
 </br>
 
 # June 2021
+
+## Introduction to Power BI L100
+**Description:** This training provides an introduction to Power BI, the business analytics service that delivers insights to enable fast, informed decisions. Learn how easy it is to transform your data into powerful visuals and share with colleagues on any device. Participants will leave understanding how they can connect with and get value out of their data in a way that was previously not possible.
+
+**[Link](https://www.microsoft.com/en-us/store/workshops-training-and-events/professionals#keyword=Power%20BI)**
 
 ## Power BI Skills Triangle
 **Description:** Power BI is becoming this huge product, with so many different components, the possibilities are almost endless. From data modelling, to data visualisation, to data governance, to machine learning, to embedding... you name it! But one thing Mara Pereira noticed over the years is that, because Power BI grew so much, people started to "specialise" in one of 3 core areas: Data Modelling, Data Visualisation and Governance & Admin.
