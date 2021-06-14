@@ -8,6 +8,10 @@ Built for the **#STLPBIUG**, used globally 💛
 Interesting content without you having to [Bing](https://bing.com) search for it. (Yes, people use Bing!)
 
 Content Glossary
+- [June 2021](#june-2021)
+  - [Power BI Skills Triangle](#power-bi-skills-triangle)
+  - [Intro to AutoML in Power BI](#intro-to-automl-in-power-bi)
+  - [Paginated Reports GOTCHAS](#paginated-reports-gotchas)
 - [May 2021](#may-2021)
   - [STLPBIUG](#stlpbiug)
   - [Organizational Reporting](#organizational-reporting)
@@ -54,6 +58,31 @@ Content Glossary
   - [Power Query Data Mashup cmdlets](#power-query-data-mashup-cmdlets)
   
 </br>
+
+# June 2021
+
+# Power BI Skills Triangle
+**Description:** Power BI is becoming this huge product, with so many different components, the possibilities are almost endless. From data modelling, to data visualisation, to data governance, to machine learning, to embedding... you name it! But one thing Mara Pereira noticed over the years is that, because Power BI grew so much, people started to "specialise" in one of 3 core areas: Data Modelling, Data Visualisation and Governance & Admin.
+
+Enter the Power BI Skills Triangle!
+
+**[Link](https://www.datapears.com/post/my-views-on-power-bi-core-skills)**
+
+![Skills Triangle](https://static.wixstatic.com/media/980ae7_4e40da3fa1944f8c8844980933f9f845~mv2.png)
+
+# Intro to AutoML in Power BI
+
+**Description:** In this session, Sandeep Pawar will take a technical deep dive into AutoML and not just build models but also look at how to evaluate, interpret and manage these models. If you are new to machine learning, he will cover the practical aspects of machine learning and best practices of deploying the models.
+
+**[Link](https://www.youtube.com/watch?v=_CaFacQiW_E)**
+
+# Paginated Reports GOTCHAS
+
+**Description:** Greyskull Analytics (Johnny Winter) introduces a series exploring 'GOTCHAS' when using Power BI Paginated Reports.
+
+**[Link](https://www.youtube.com/watch?v=Z9VqeYl4YLM&list=PLxEdrLBTSSr4R0OqcE8l4ETgU_0ZHDjk7)**
+
+![Greyskull Analytics](https://greyskullanalytics.com/wp-content/uploads/2021/02/SkullLogog_Colour_500x500-1.png)
 
 # May 2021
 
