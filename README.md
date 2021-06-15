@@ -13,6 +13,7 @@ Content Glossary
   - [Power BI Skills Triangle](#power-bi-skills-triangle)
   - [Intro to AutoML in Power BI](#intro-to-automl-in-power-bi)
   - [Paginated Reports GOTCHAS](#paginated-reports-gotchas)
+  - [Visio Licensing](#visio-licensing)
 - [May 2021](#may-2021)
   - [STLPBIUG](#stlpbiug)
   - [Organizational Reporting](#organizational-reporting)
@@ -89,6 +90,18 @@ Enter the Power BI Skills Triangle!
 **[Link](https://www.youtube.com/watch?v=Z9VqeYl4YLM&list=PLxEdrLBTSSr4R0OqcE8l4ETgU_0ZHDjk7)**
 
 ![Greyskull Analytics](https://greyskullanalytics.com/wp-content/uploads/2021/02/SkullLogog_Colour_500x500-1.png)
+
+## Visio Licensing
+
+**Description:** Chris Webb explores the Visio web app licensing changes and the added benefit for Power BI users. 
+
+**[Link](https://blog.crossjoin.co.uk/2021/06/09/what-the-new-visio-web-app-and-licensing-announcement-means-for-power-bi/)**
+
+**Official Announcement:** In July, we’ll start rolling out a lightweight version of the Visio web app in Microsoft 365 to bring visual diagramming and collaboration to all teams—both of which are especially important in this hybrid work environment. But the best part? It’ll be available, at no additional cost, for all commercial license subscribers.
+
+**[Official Announcement](https://www.microsoft.com/en-us/microsoft-365/blog/2021/06/09/bringing-visio-to-microsoft-365-diagramming-for-everyone/)**
+
+![Visio Web](https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2021/06/Picture1.png)
 
 # May 2021
 
