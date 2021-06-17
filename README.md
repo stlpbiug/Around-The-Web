@@ -14,6 +14,7 @@ Content Glossary
   - [Intro to AutoML in Power BI](#intro-to-automl-in-power-bi)
   - [Paginated Reports GOTCHAS](#paginated-reports-gotchas)
   - [Visio Licensing](#visio-licensing)
+  - [St Louis SQL Server and Business Intelligence User Group](#st-louis-sql-server-and-business-intelligence-user-group)
 - [May 2021](#may-2021)
   - [STLPBIUG](#stlpbiug)
   - [Organizational Reporting](#organizational-reporting)
@@ -102,6 +103,12 @@ Enter the Power BI Skills Triangle!
 **[Official Announcement](https://www.microsoft.com/en-us/microsoft-365/blog/2021/06/09/bringing-visio-to-microsoft-365-diagramming-for-everyone/)**
 
 ![Visio Web](https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2021/06/Picture1.png)
+
+## St Louis SQL Server and Business Intelligence User Group
+
+**Description:** The St. Louis SQL Server (STLSSUG) and Business Intelligence (STLBIUG) user groups purpose is to establish channels of communication and education for individuals working with the SQL Server Database Management System, Microsoft's Modern Data Warehouse and Business Intelligence tools.
+
+**[Link](https://www.meetup.com/st-louis-sql-server-bi-user-group/)**
 
 # May 2021
 
