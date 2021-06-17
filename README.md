@@ -15,6 +15,7 @@ Content Glossary
   - [Paginated Reports GOTCHAS](#paginated-reports-gotchas)
   - [Visio Licensing](#visio-licensing)
   - [St Louis SQL Server and Business Intelligence User Group](#st-louis-sql-server-and-business-intelligence-user-group)
+  - [
 - [May 2021](#may-2021)
   - [STLPBIUG](#stlpbiug)
   - [Organizational Reporting](#organizational-reporting)
@@ -109,6 +110,12 @@ Enter the Power BI Skills Triangle!
 **Description:** The St. Louis SQL Server (STLSSUG) and Business Intelligence (STLBIUG) user groups purpose is to establish channels of communication and education for individuals working with the SQL Server Database Management System, Microsoft's Modern Data Warehouse and Business Intelligence tools.
 
 **[Link](https://www.meetup.com/st-louis-sql-server-bi-user-group/)**
+
+## Learning SQL
+
+**Description:** Here is a blog by Barrett Studdard, [https://datastud.dev/](https://datastud.dev/) covering the basics of SQL in short articles.
+
+**[Link](https://datastud.dev/posts/learning-sql-part-1)**
 
 # May 2021
 
