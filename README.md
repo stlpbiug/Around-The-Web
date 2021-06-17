@@ -16,6 +16,7 @@ Content Glossary
   - [Visio Licensing](#visio-licensing)
   - [St Louis SQL Server and Business Intelligence User Group](#st-louis-sql-server-and-business-intelligence-user-group)
   - [Learning SQL](#learning-sql)
+  - [Best Practices to Improve Power BI Performance and Design](#best-practices-to-improve-power-bi-performance-and-design)
 - [May 2021](#may-2021)
   - [STLPBIUG](#stlpbiug)
   - [Organizational Reporting](#organizational-reporting)
@@ -116,6 +117,12 @@ Enter the Power BI Skills Triangle!
 **Description:** Here is a blog by Barrett Studdard, [https://datastud.dev/](https://datastud.dev/) covering the basics of SQL in short articles.
 
 **[Link](https://datastud.dev/posts/learning-sql-part-1)**
+
+## Best Practices to Improve Power BI Performance and Design
+
+**Description:** In this session, Michael Kovalsky (PBICAT) will teach attendees how to automatically scan their model to ensure that it aligns to standard best practices for performance and design.
+
+**[Link](https://www.youtube.com/watch?v=5pu9FoTUpys)**
 
 # May 2021
 
