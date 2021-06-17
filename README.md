@@ -15,7 +15,7 @@ Content Glossary
   - [Paginated Reports GOTCHAS](#paginated-reports-gotchas)
   - [Visio Licensing](#visio-licensing)
   - [St Louis SQL Server and Business Intelligence User Group](#st-louis-sql-server-and-business-intelligence-user-group)
-  - [
+  - [Learning SQL](#learning-sql)
 - [May 2021](#may-2021)
   - [STLPBIUG](#stlpbiug)
   - [Organizational Reporting](#organizational-reporting)
